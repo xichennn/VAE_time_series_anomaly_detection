@@ -1,3 +1,4 @@
+# source https://github.com/Michedev/VAE_anomaly_detection
 from abc import abstractmethod, ABC
 
 import torch
